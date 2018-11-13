@@ -12,9 +12,11 @@ namespace projeto_teste
         {
 
             Console.WriteLine("ola, mundo!");
+            Console.WriteLine("Bom dia.");
+
 
             Console.ReadLine();
-
+            
 
 
         }
